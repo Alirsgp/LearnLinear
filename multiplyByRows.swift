@@ -18,9 +18,6 @@ let A = [[1.0, 2.0, 3.0], [1.0, 2.0, 3.0]]
 
 let B = [[1.0, 2.0], [1.0, 2.0], [1.0, 2.0]]
 
-/**
-2x1
-**/
 let product = multiplyByRows(A, B)
 
 print(product)
